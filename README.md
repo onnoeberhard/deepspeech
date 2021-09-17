@@ -1,4 +1,19 @@
-# deepspeech
+# Effects of Layer Freezing on Transferring a Speech Recognition System to Under-resourced Languages
+Link to paper: https://konvens2021.phil.hhu.de/wp-content/uploads/2021/09/2021.KONVENS-1.19.pdf
+
+Link to talk: https://youtu.be/xYqrwV2y2jc, Slides in this repository.
+
+BibTeX:
+```
+@inproceedings{eberhard2021effects,
+  author    = {Onno Eberhard and Torsten Zesch},
+  title     = {Effects of Layer Freezing on Transferring a Speech Recognition System to Under-resourced Languages},
+  booktitle = {Proceedings of the 17th Conference on Natural Language Processing (KONVENS 2021)}
+}
+```
+
+---
+
 This repository contains additional resources for the paper "Effects of Layer Freezing on Transferring a Speech Recognition System to Under-resourced Languages".
 
 The steps taken for training the models are compiled in the file `training.sh`. The training and testing output logs can be found in the `logs` directory.
