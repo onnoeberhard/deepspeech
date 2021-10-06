@@ -1,14 +1,19 @@
 # Effects of Layer Freezing on Transferring a Speech Recognition System to Under-resourced Languages
-Link to paper: https://konvens2021.phil.hhu.de/wp-content/uploads/2021/09/2021.KONVENS-1.19.pdf
+Link to paper: https://aclanthology.org/2021.konvens-1.19.pdf
 
 Link to talk: https://youtu.be/xYqrwV2y2jc, Slides in this repository.
 
+ACL Anthology: https://aclanthology.org/2021.konvens-1.19/
+
 BibTeX:
 ```
-@inproceedings{eberhard2021effects,
-  author    = {Onno Eberhard and Torsten Zesch},
-  title     = {Effects of Layer Freezing on Transferring a Speech Recognition System to Under-resourced Languages},
-  booktitle = {Proceedings of the 17th Conference on Natural Language Processing (KONVENS 2021)}
+@inproceedings{eberhard-zesch-2021-effects,
+    title = "Effects of Layer Freezing on Transferring a Speech Recognition System to Under-resourced Languages",
+    author = "Eberhard, Onno and Zesch, Torsten",
+    booktitle = "Proceedings of the 17th Conference on Natural Language Processing (KONVENS 2021)",
+    year = "2021",
+    url = "https://aclanthology.org/2021.konvens-1.19",
+    pages = "208--212",
 }
 ```
 
