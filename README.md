@@ -8,13 +8,17 @@ ACL Anthology: https://aclanthology.org/2021.konvens-1.19/
 BibTeX:
 ```
 @inproceedings{eberhard-zesch-2021-effects,
-    title = "Effects of Layer Freezing on Transferring a Speech Recognition System to Under-resourced Languages",
-    author = "Eberhard, Onno and Zesch, Torsten",
-    booktitle = "Proceedings of the 17th Conference on Natural Language Processing (KONVENS 2021)",
-    year = "2021",
-    url = "https://aclanthology.org/2021.konvens-1.19",
-    pages = "208--212",
+  title = {Effects of Layer Freezing on Transferring a Speech Recognition System to Under-resourced Languages},
+  author = {Eberhard, Onno and Zesch, Torsten},
+  booktitle = {Proceedings of the 17th Conference on Natural Language Processing (KONVENS 2021)},
+  month = "6--9 " # sep,
+  year = {2021},
+  address = {D{\"u}sseldorf, Germany},
+  publisher = {KONVENS 2021 Organizers},
+  url = {https://aclanthology.org/2021.konvens-1.19},
+  pages = {208--212}
 }
+
 ```
 
 ---
